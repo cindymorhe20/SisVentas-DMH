@@ -1,4 +1,4 @@
-Link de la página web: 
+Link de la página web: http://35.239.244.78/
 
 Proyecto elaborado en Visual Studio Code, lenguaje PHP Apache, css, js, aravel, composer, base de datos Phpmyadmin.
 
