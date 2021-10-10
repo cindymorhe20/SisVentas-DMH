@@ -1,4 +1,10 @@
+Link de la página web: https://detallesmh.000webhostapp.com/
 
+Proyecto elaborado en Visual Studio Code, lenguaje PHP Apache, css, js, aravel, composer, base de datos Phpmyadmin.
+
+Se debe de descargar el proyecto y guardarlo en XAMPP, carpeta htdocs. Base de dato se encuentra en la carpeta llamada "db", se procede a importar y ejecutar en phpmyadmin.
+
+Luego colocar en el buscardor http://localhost/sisventasDMH/public/index.php
 
 En la página de inicio de sesión se muestra campos para que el usuario pueda ingresar sus datos así pueda acceder al sistema.  
 
