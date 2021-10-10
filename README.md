@@ -1,4 +1,4 @@
-Link de la página web: https://detallesmh.000webhostapp.com/
+Link de la página web: 
 
 Proyecto elaborado en Visual Studio Code, lenguaje PHP Apache, css, js, aravel, composer, base de datos Phpmyadmin.
 
